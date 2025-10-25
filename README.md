@@ -329,8 +329,8 @@ SOFTWARE.
 ## 📧 Contact
 
 For questions or support, please contact:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: joshuasantiago17.22@gmail.com
+- GitHub: [osha-san](https://github.com/osha-san)
 
 ## 🙏 Acknowledgments
 
@@ -340,4 +340,4 @@ For questions or support, please contact:
 
 ---
 
-**Made with ❤️ using C# and MySQL**
+**Made using C# and MySQL**
