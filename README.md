@@ -296,7 +296,7 @@ Potential features for future versions:
 
 ## 👥 Contributors
 
-- **Your Name** - Initial work
+- **Joshua Santiago** - Initial work
 
 ## 📄 License
 
