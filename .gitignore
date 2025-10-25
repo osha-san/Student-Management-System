@@ -47,5 +47,5 @@
    *.pdb
 
    # Sensitive data - IMPORTANT!
-   # Uncomment the line below to exclude Database.cs
-   # **/DAL/Database.cs 
+   # Protect database credentials
+   **/DAL/Database.cs

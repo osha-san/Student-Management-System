@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using MySql.Data.MySqlClient;
+
+namespace StudentManagementSystem.DAL
+{
+    internal class Database
+    {
+        // INSTRUCTIONS FOR SETUP:
+        // 1. Copy this file and rename it to "Database.cs"
+        // 2. Replace YOUR_MYSQL_PASSWORD with your actual MySQL root password
+        // 3. Update uid if you're not using 'root' as username
+        
+        private static string connectionString = "server=localhost;database=student_management_system;uid=root;pwd=YOUR_MYSQL_PASSWORD";
+        
+        public static MySqlConnection GetConnection()
+        {
+            return new MySqlConnection(connectionString);
+        }
+    }
+}
